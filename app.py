@@ -219,8 +219,8 @@ def render_header():
     """Render the app header."""
     st.markdown("""
     <div class="main-header">
-        <h1>🎓 Luncheon Quiz</h1>
-        <p>Test your knowledge • Compete with peers • Win bragging rights!</p>
+        <h1>🎓 Quiz</h1>
+        <p> City University of Seattle | Luncheon </p>
     </div>
     """, unsafe_allow_html=True)
 
