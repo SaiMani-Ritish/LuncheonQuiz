@@ -34,7 +34,7 @@ st.markdown("""
     }
     
     .main-header h1 {
-        color: #e94560;
+        color: #ede6e6;
         font-size: 2.8rem;
         font-weight: 700;
         margin: 0;
